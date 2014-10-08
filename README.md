@@ -79,3 +79,18 @@ Total: 65.15
 Sales Taxes: 6.70
 Total: 74.68
 ```
+
+## Solution
+
+Script *solution.pl* is written in [Perl](http://www.perl.org).
+
+Launch it to produce output as required.
+
+```bash
+perl solution.pl input1.txt
+perl solution.pl input2.txt
+perl solution.pl input3.txt
+```
+
+You can try it in [this codio box](https://codio.com/fibo/solve-this-simple-exercise).
+
